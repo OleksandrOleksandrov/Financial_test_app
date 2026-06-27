@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance",
+  "description": "An offline-first, exceptionally polished personal finance manager featuring real-time insights, custom category budget tracking, and interactive saving goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
